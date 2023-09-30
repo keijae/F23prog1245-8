@@ -1,0 +1,14 @@
+/* Kim Gallego 8772343 */
+body{
+
+font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+width: 100vw;
+height: 100vh;
+background-color: hsla(332, 79%, 58%, 0.65);
+
+}
+h2{
+
+    color: #c05;
+    font-size: 2em;
+}
